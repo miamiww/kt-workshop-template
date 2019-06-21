@@ -56,7 +56,7 @@ var duration = moment.duration(between_now_and_event).minutes();
 const marquee_message =
   `<li id="xkcd"><marquee>
 
-  1.5˚ Climate Crisis ${years_to_event} years <span id="minutes" class='part'>${duration}</span>min
+  925 days until federal student debt hits $2 trillion
 
   </marquee></li>`;
 
